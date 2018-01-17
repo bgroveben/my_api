@@ -1,7 +1,6 @@
 # [Shad0w Synd1cate Cybersecurity and IT Group of Las Vegas](https://www.meetup.com/Cyber-Security-and-IT-Computer-Group-of-Las-Vegas/events/246569084/)  
 This is a basic static website that can be used for experiments, prototyping, user feedback, and so on.  
-The Bootstrap template comes with its own README to fill you in on the details.  
-
+ 
 *And Now For The Bootstrap Template:*
 ## [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
