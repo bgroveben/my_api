@@ -31,7 +31,7 @@ body {
 .intro .intro-body .intro-text {
   font-size: 2em;
   color: white;
-  text-shadow: 2px 2px 2px #24B415;
+  text-shadow: 4px 4px 4px #24B415;
 }
 .navbar-custom .nav li a {
   -webkit-transition: background 0.3s ease-in-out;
@@ -48,4 +48,10 @@ body {
 #easter-egg {
   font-size: 18px;
   line-height: 1.5;
+}
+
+.intro-text {
+  font-size: 2em;
+  color: white;
+  text-shadow: 2px 2px 2px #24B415;
 }
