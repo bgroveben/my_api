@@ -1,10 +1,6 @@
 # Welcome to my Github Site!
 
-## Currently home to the Shad0w Synd1cate website.  
-### Security Note:  
-The Shad0w Synd1cate site uses jQuery, which can have cross-site vulnerability issues like attaching unsanitized user input to the DOM.  
-This is not currently a concern, but it may become one if this site is updated to accept user input.  
-[More info here](https://github.com/jquery/jquery/issues/3949)  
+## Currently home to the Shad0w Synd1cate website.   
 
 ## This repository usually serves as a portfolio page and project showcase.  
 
