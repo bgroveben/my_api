@@ -10,7 +10,7 @@ body {
 /* Intro background image: */
 .intro {
   /* Make SVG image responsive: */
-  background: no-repeat center/100% url(../img/shad_syn_grayscale.svg);
+  background: no-repeat center/100% url(../img/working_copy.png);
 }
 
 /* Change color of social media link buttons: */
