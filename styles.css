@@ -60,7 +60,7 @@ ul li a {
 
 header {
   text-align: center;
-  background: url('images/brand_logo.png') no-repeat top center ;
+  background: url('images/brand_logo.png') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -72,11 +72,19 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
   border: 3px solid skyblue;
   transition: all .5s;
 }
 header .profile-image:hover {
+  transform: scale(1.5) rotate(360deg);
+}
+
+footer .profile-image {
+  width: 12px;
+  border: 1px solid skyblue;
+  transition: all .5s;
+}
+footer .profile-image:hover {
   transform: scale(1.5) rotate(360deg);
 }
 .tag {
