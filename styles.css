@@ -8,7 +8,7 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: black;
+  color: midnightblue;
   background: lightsteelblue;
 }
 
@@ -19,18 +19,20 @@ h1,h2,h3,h4 {
 
 a {
   text-decoration: none;
-  color: black;
 
 }
 a:hover {
   color: blue;
 }
 
+ul li a {
+  color: midnightblue;
+}
 /* Section Styles */
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: midnightblue;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -44,14 +46,12 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
-.nav .name {
-  display: none;
-}
+
 .nav li {
   padding: 5px 10px 10px 10px;
 }
 .nav a {
-  color: white;
+  color: aliceblue;
   transition: all .5s;
 }
 .nav a:hover {
@@ -73,34 +73,34 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid skyblue;
   transition: all .5s;
 }
 header .profile-image:hover {
   transform: scale(1.5) rotate(360deg);
 }
 .tag {
-  background-color: white;
+  background-color: skyblue;
   padding: 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
 }
 .location {
-  background-color: white;
-  color: black;
+  background-color: aliceblue;
+  color: midnightblue;
 }
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: white;
-  border-bottom: 4px solid slategray;
+  background-color: aliceblue;
+  border-bottom: 4px solid slateblue;
   border-radius: 6px;
 }
 .card:hover {
-  border-color: darkslategray;
+  border-color: darkslateblue;
 }
 
 ul.skills {
@@ -144,9 +144,6 @@ footer ul li {
 a.social {
   display: inline-block;
   text-indent: -9999px;
-  /*
-  margin-left: 5px;
-  */
   margin: 5px;
   width: 50px;
   height: 50px;
@@ -192,7 +189,6 @@ a.social:hover {
   .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
   }
 
   main {
