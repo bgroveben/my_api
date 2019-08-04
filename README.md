@@ -1,5 +1,3 @@
-# Welcome to my Github Site!
+# [My first portfolio website](https://bgroveben.github.io/my_profile/)
 
-## This repository usually serves as a portfolio page and project showcase.  
-
-However, don't be surprised if experiments, playgrounds, and works-in-progress show up here, because this is my site and I shall do with it as I please.  
+## [My current portfolio website](https://bgroveben.github.io/)
